@@ -1,4 +1,7 @@
-## Hi there 👋
+##Prazer, eu sou Paulo!
+
+💻 Desenvolvedor Front-end apaixonado por tecnologia  
+🚀 Atualmente aprendendo Next.js, Prisma e bancos de dados
 
 <!--
 **ovisu/ovisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
