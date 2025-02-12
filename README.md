@@ -4,7 +4,7 @@
  
  💻 Desenvolvedor Front-end apaixonado por tecnologia  
 
-🚀 Atualmente aprendendo: 
+🚀 Atualmente aprendendo:  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
