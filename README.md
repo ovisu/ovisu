@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"> Prazer, eu sou Paulo! </h1> 
+<h1 align="center"> Prazer, eu sou Paulo! </h1> 
 
 
  
