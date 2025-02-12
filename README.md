@@ -7,7 +7,7 @@
 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/paulo-henrique-13818a283/)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovisu&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovisu&show_icons=true&theme=dark)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovisu&layout=compact&theme=dark)
 
 <!--
 **ovisu/ovisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
