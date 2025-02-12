@@ -1,4 +1,4 @@
-<h1 align="center"> Prazer, eu sou Paulo! ![#f03c15]https://placehold.co/600x400?text={+} `#f03c15` </h1> 
+<h1 align="center"> Prazer, eu sou Paulo! </h1> 
 
 
  
