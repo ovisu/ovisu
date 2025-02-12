@@ -1,4 +1,4 @@
-<h1 align="center"> Prazer, eu sou Paulo! <span size="20px">{}</span> </h1> 
+<h1 align="center"> Prazer, eu sou Paulo! <span size="20px" color="orange">{ }</span> </h1> 
 
 
  
