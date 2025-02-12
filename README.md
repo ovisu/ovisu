@@ -1,4 +1,4 @@
-##Prazer, eu sou Paulo!
+## Prazer, eu sou Paulo!
 
 💻 Desenvolvedor Front-end apaixonado por tecnologia  
 🚀 Atualmente aprendendo Next.js, Prisma e bancos de dados
