@@ -1,4 +1,4 @@
-## Prazer, eu sou Paulo! 
+<h1 style="text-align:center;"> Prazer, eu sou Paulo! </h1> 
 
 
  
