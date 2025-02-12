@@ -1,7 +1,9 @@
 ## Prazer, eu sou Paulo!
 
 💻 Desenvolvedor Front-end apaixonado por tecnologia  
+
 🚀 Atualmente aprendendo Next.js, Prisma e bancos de dados
+
 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/paulo-henrique-13818a283/)
 
 ---
